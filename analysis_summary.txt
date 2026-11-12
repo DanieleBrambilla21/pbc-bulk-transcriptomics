@@ -1,0 +1,16 @@
+PROJECT 1 - PBC BLOOD TRANSCRIPTOMICS
+Dataset: GSE119600
+Platform: Illumina HumanHT-12 v4 expression beadchip (GPL10558)
+Tissue: whole blood
+PBC samples: 90
+Healthy controls: 47
+Probes analysed: 47230
+Probes with FDR < 0.05: 5707
+Probes with FDR < 0.05 and |log2FC| >= 1: 4
+Contrast: PBC minus Control (positive logFC = higher expression in PBC)
+Statistical method: limma with empirical Bayes moderation
+Multiple-testing correction: Benjamini-Hochberg
+
+Interpretation note:
+This is an exploratory comparison of blood transcriptomes. It does not
+demonstrate diagnostic performance, causality, or clinical utility.
